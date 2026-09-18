@@ -1,6 +1,6 @@
 # AI-agent-frameworks
 
-[![AI Agent Frameworks: CrewAI vs LangGraph vs Claude Agent SDK](https://github.com/oxylabs/AI-agent-frameworks/blob/main/AI-agent-frameworks-banner.png)](https://oxylabs.io/products/scraper-api/web)
+[![AI Agent Frameworks: CrewAI vs LangGraph vs Claude Agent SDK](https://github.com/oxylabs/AI-agent-frameworks/blob/main/AI-agent-frameworks-banner.png)](https://oxylabs.io/web-api-early-access?utm_source=github&utm_medium=referral&utm_content=web_api_waitinglist&groupid=877)
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
